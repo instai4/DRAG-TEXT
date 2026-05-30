@@ -1,6 +1,6 @@
 # DRAG-TEXT
 
-An interactive web experiment that allows users to interact with text as if it were a physical, draggable string of letters subject to physics simulation. The application's core structure, styling, and logic are cleanly modularized into standard HTML, CSS, and JS files.
+An interactive web experiment that allows users to interact with text as if it were a physical, draggable string of letters subject to physics simulation. The application's core structure, styling, and logic are cleanly modularized into standard HTML, CSS, and JS files
 
 ## 🚀 Technologies Used
 
